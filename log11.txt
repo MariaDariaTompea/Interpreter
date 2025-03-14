@@ -1,0 +1,6019 @@
+ID:70
+Program ID:70
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:70
+Program ID:70
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:70
+Program ID:70
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:70
+Program ID:70
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:70
+Program ID:70
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:70
+Program ID:70
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:70
+Program ID:70
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:70
+Program ID:70
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:70
+Program ID:70
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:70
+Program ID:70
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:70
+Program ID:70
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:70
+Program ID:70
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:70
+Program ID:70
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+
+MyList contains:
+20
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:41
+Program ID:41
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:41
+Program ID:41
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:41
+Program ID:41
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:41
+Program ID:41
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:41
+Program ID:41
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:41
+Program ID:41
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:41
+Program ID:41
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:41
+Program ID:41
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:41
+Program ID:41
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:41
+Program ID:41
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:41
+Program ID:41
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:41
+Program ID:41
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:41
+Program ID:41
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+
+MyList contains:
+20
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:59
+Program ID:59
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:59
+Program ID:59
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:59
+Program ID:59
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:59
+Program ID:59
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:59
+Program ID:59
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:59
+Program ID:59
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:59
+Program ID:59
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:59
+Program ID:59
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:59
+Program ID:59
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:59
+Program ID:59
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:59
+Program ID:59
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:68
+Program ID:68
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:68
+Program ID:68
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+
+MyList contains:
+20
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:22
+Program ID:22
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:22
+Program ID:22
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+int v
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+int v
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = 0
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = 0
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:22
+Program ID:22
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:64
+Program ID:64
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 20
+
+MyStack contains:
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:3
+Program ID:3
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+
+MyList contains:
+0
+1
+2
+20
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:78
+Program ID:78
+MyDictionary contains:
+a -> (1, int)
+v -> 40
+
+MyStack contains:
+
+MyList contains:
+0
+1
+2
+20
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:71
+Program ID:71
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:71
+Program ID:71
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:31
+Program ID:31
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:31
+Program ID:31
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:31
+Program ID:31
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+int v
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+int v
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = 0
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = 0
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:31
+Program ID:31
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:53
+Program ID:53
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 20
+
+MyStack contains:
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:84
+Program ID:84
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+
+MyList contains:
+0
+1
+2
+20
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:9
+Program ID:9
+MyDictionary contains:
+a -> (1, int)
+v -> 40
+
+MyStack contains:
+
+MyList contains:
+0
+1
+2
+20
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:23
+Program ID:23
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:23
+Program ID:23
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+int v
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+int v
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = 0
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = 0
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:23
+Program ID:23
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:10
+Program ID:10
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 20
+
+MyStack contains:
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:34
+Program ID:34
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+
+MyList contains:
+0
+1
+2
+20
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:28
+Program ID:28
+MyDictionary contains:
+a -> (1, int)
+v -> 40
+
+MyStack contains:
+
+MyList contains:
+0
+1
+2
+20
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:29
+Program ID:29
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:29
+Program ID:29
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:29
+Program ID:29
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+int v;for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+int v
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+int v
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:29
+Program ID:29
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = 0
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:5
+Program ID:5
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:5
+Program ID:5
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = 0
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = 0
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:5
+Program ID:5
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:37
+Program ID:37
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 1
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 20
+
+MyStack contains:
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:16
+Program ID:16
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+print(v);v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+print(v)
+
+MyList contains:
+0
+1
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+print(HeapRead(a))
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 2
+
+MyStack contains:
+v = v * HeapRead(a)
+
+MyList contains:
+0
+1
+2
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 3
+
+MyStack contains:
+
+MyList contains:
+0
+1
+2
+20
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:68
+Program ID:68
+MyDictionary contains:
+a -> (1, int)
+v -> 40
+
+MyStack contains:
+
+MyList contains:
+0
+1
+2
+20
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:90
+Program ID:90
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:90
+Program ID:90
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:90
+Program ID:90
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:90
+Program ID:90
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:90
+Program ID:90
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:90
+Program ID:90
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:90
+Program ID:90
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:90
+Program ID:90
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:90
+Program ID:90
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:90
+Program ID:90
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:90
+Program ID:90
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:90
+Program ID:90
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:90
+Program ID:90
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:90
+Program ID:90
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+v = 0
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:25
+Program ID:25
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:25
+Program ID:25
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:25
+Program ID:25
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:25
+Program ID:25
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:25
+Program ID:25
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:25
+Program ID:25
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:25
+Program ID:25
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:25
+Program ID:25
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:25
+Program ID:25
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:25
+Program ID:25
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:25
+Program ID:25
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:25
+Program ID:25
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:11
+Program ID:11
+MyDictionary contains:
+
+MyStack contains:
+Ref(int) a;new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:11
+Program ID:11
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:11
+Program ID:11
+MyDictionary contains:
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+Ref(int) a
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:11
+Program ID:11
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:11
+Program ID:11
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+new(a, 20);for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:11
+Program ID:11
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:11
+Program ID:11
+MyDictionary contains:
+a -> (0, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+new(a, 20)
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:
+ID:11
+Program ID:11
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:11
+Program ID:11
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a));print(HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:11
+Program ID:11
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:11
+Program ID:11
+MyDictionary contains:
+a -> (1, int)
+
+MyStack contains:
+print(HeapRead(a))
+for(v=0;v<3;v=v + 1) fork(print(v);v = v * HeapRead(a))
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
+ID:11
+Program ID:11
+MyDictionary contains:
+a -> (1, int)
+v -> 0
+
+MyStack contains:
+print(HeapRead(a))
+v = 0;while(v < 3) fork(print(v);v = v * HeapRead(a));v = v + 1
+
+MyList contains:
+
+FileTable: 
+
+MyHeap contains:1 -> 20
+
